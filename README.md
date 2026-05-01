@@ -49,6 +49,7 @@ To build a system that can:
 * Matplotlib
 
  📊 Features
+ 
 ✔ Resume text preprocessing
 ✔ Skill extraction using NLP
 ✔ Resume-job similarity scoring
@@ -57,27 +58,32 @@ To build a system that can:
 ✔ Visualization of top candidates
 
 🧪 Testing & Validation
+
 * Tested with multiple job descriptions (ML, Data Analyst, Web Developer)
 * Verified that relevant candidates rank higher
 * Skill gap analysis correctly identifies missing skills
 * System dynamically adapts to different job role
 
 ⚠️ Limitations
+
 * Uses a predefined skill list (can be expanded)
 * Basic NLP approach may capture generic keyword overlaps
 * Does not yet use deep learning or advanced embeddings
 
 🔮 Future Improvements
+
 * Use advanced NLP models (BERT, spaCy pipelines)
 * Improve skill extraction using Named Entity Recognition
 * Add web interface for real-time resume upload
 * Implement weighted skill importance
 
  📌 Conclusion
+ 
 This project demonstrates how Machine Learning and NLP can be used to **automate resume screening**, reduce manual effort, and improve hiring decisions.
 It serves as a strong foundation for building real-world **AI-powered recruitment systems**.
 
  🙌 Acknowledgment
+ 
 Developed as part of the **Machine Learning Internship Program by Future Interns**.
 
 
